@@ -21,4 +21,14 @@ This repository is all about the functionalities of Artificial Intelligence and 
      
       -> Label Encoding
      
-      -> One Hot Encoding 
+      -> One Hot Encoding
+
+To learn machine learning from this repository, please follow the steps below:
+
+1. **Pandas and Numpy**
+2. **Data Cleaning**
+3. **Matplotlib**
+4. **Scalling**
+5. **Encoding**
+6. **Classifier and Feature Engineering**
+7. **Regression**
